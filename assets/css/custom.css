@@ -1,0 +1,22 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+
+/* Hide default border to remove 1px line. */
+.navbar-fixed-top {
+  border: 0;
+}
+
+/* dirty fix to have "responsive" labels */
+.label {
+  white-space: normal !important;
+}
+
+/* styles for leaflet clusters */
+.cluster {
+  background-color: greenyellow;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
