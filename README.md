@@ -1,10 +1,11 @@
-# tankerkoenig
+# Einfache Webseite zur Tankerkönig API
+API: https://creativecommons.tankerkoenig.de/
 
-# Live demo: tankerkoenig.maximize-it.eu
+Demo der Webseite: http://tankerkoenig.maximize-it.eu
 
-# To be changed:
-Insert DB configuration parameters:
+## Nach dem Clone:
+DB Konfigurationsparameter einfügen:
 - scripts/db/DBConfig.php
 
-Obtain and insert API-Key from https://creativecommons.tankerkoenig.de/:
-- index.php line 68
+API-Key einfügen:
+- index.php Zeile 68
