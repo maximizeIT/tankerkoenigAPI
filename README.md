@@ -7,5 +7,5 @@ Demo der Webseite: http://maximizeIT.github.io/tankerkoenig
 DB Konfigurationsparameter einfügen:
 - scripts/db/DBConfig.php
 
-API-Key einfügen:
+Tankerkönig API-Key einfügen:
 - index.php Zeile 68
