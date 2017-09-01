@@ -1,7 +1,7 @@
 # Einfache Webseite zur Tankerkönig API
 API: https://creativecommons.tankerkoenig.de/
 
-Demo der Webseite: http://tankerkoenig.maximize-it.eu
+Demo der Webseite: http://maximizeIT.github.io/tankerkoenig
 
 ## Nach dem Clone:
 DB Konfigurationsparameter einfügen:
